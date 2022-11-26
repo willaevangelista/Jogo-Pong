@@ -148,3 +148,8 @@ function bolinhaNaoFicaPresa(){
     xBolinha = 300;
     }
 }
+
+
+
+
+
