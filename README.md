@@ -8,16 +8,23 @@
 
 </div>
 
-<div align="center">
-  
-  https://user-images.githubusercontent.com/84138876/204105848-7624c39e-dbba-484e-a8a2-cedbac9f592d.mp4
+<hr>
 
+<div align="center">
+
+  https://user-images.githubusercontent.com/84138876/204105848-7624c39e-dbba-484e-a8a2-cedbac9f592d.mp4
+  
 </div>
 
-<h2>Descrição do Projeto "Jogo Pong"</h2>
+## Descrição do Projeto "Jogo Pong"
 
-<p>
-  Pong é um jogo clássico dos anos 1972, que simula uma partida de tênis de mesa entre dois jogadores. Para recriá-lo, fez-se uso principalmente de JavaScript e, em segundo plano, HTML e CSS. No vídeo acima, encontra-se o resultado final do projeto "Lógica de programação: comece em lógica com o jogo Pong e Javascript" proposto pela Alura.
-<p>
+* Pong é um jogo clássico dos anos 1972, que simula uma partida de tênis de mesa entre dois jogadores. Para recriá-lo, fez-se uso principalmente de JavaScript e, em segundo plano, HTML e CSS. No vídeo acima, encontra-se o resultado final do projeto "Lógica de programação: comece em lógica com o jogo Pong e Javascript" proposto pela Alura.
 
+## Tecnologias utilizadas 
+* JavaScript 
+* HTML
+* CSS
 
+## Compartilhamento do Projeto Desenvolvido
+
+* Para uma melhor visualização do trabalho feito até o momento, basta acessar o site clicando <a href="https://willaevangelista.github.io/Jogo-Pong/">aqui.</a>
